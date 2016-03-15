@@ -192,3 +192,17 @@ font-family: myFirstFont;
 text-align:left;
 color:#737373;
 }
+
+.izrada
+{
+	margin-top: 200px;
+	margin-left:85px;
+	margin-bottom:100px;
+	font-family:myFirstFont;
+	color:#CF897F;
+	padding: 5px 60px;
+	text-transform:capitalize;
+	font-size: 360%;
+	font-variant: small-caps;
+	text-align:left;
+}
