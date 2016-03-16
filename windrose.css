@@ -1,0 +1,99 @@
+body{
+ background-image: url("paper.jpg");
+margin-top: 10px;
+margin-left:430px;
+
+}
+#windrose{
+ position: fixed;
+    bottom: 200px;
+    right: 620px;
+    
+}
+#naslov {
+color: #021E7D;
+font-family:verdana;
+font-size: 250%;
+text-shadow: 2px 2px 2px #C0CEFE;
+
+font-weight:bold;
+text-align:center;
+margin-left: -530px;
+margin-bottom: 20px;
+
+}
+
+#kvadrat{
+     border-radius: 5px;
+    background: #C0CEFE;
+    padding: 5px; 
+    width: 5px;
+    height: 5px;    
+}
+#kvadrat1{
+     border-radius: 5px;
+    background: #829DFD;
+    padding: 5px; 
+    width: 5px;
+    height: 5px;    
+}
+#kvadrat2{
+     border-radius: 5px;
+    background: #436CFC;
+    padding: 5px; 
+    width: 5px;
+    height: 5px;    
+}
+#kvadrat3{
+     border-radius: 5px;
+    background: #0136EB;
+    padding: 5px; 
+    width: 5px;
+    height: 5px;    
+}
+#kvadrat4{
+     border-radius: 5px;
+    background: #0329AF;
+    padding: 5px; 
+    width: 5px;
+    height: 5px;    
+}
+#kvadrat5{
+     border-radius: 5px;
+    background: #021E7D;
+    padding: 5px; 
+    width: 5px;
+    height: 5px;    
+}
+#kvadrat6{
+     border-radius: 5px;
+    background: #011041;
+    padding: 5px; 
+    width: 5px;
+    height: 5px;    
+}
+
+#opis{
+	font-family:verdana;
+	font-size:76%;
+	font-weight: bold;
+
+}
+#tablica{
+
+	position: fixed;
+	right: 430px;
+	 bottom: 430px;
+}
+
+#greska{
+
+	color:  #8B0000;
+	text-shadow: 1px 1px 1px black;
+	font-family:verdana;
+	font-size: 150%;
+	
+	margin-left: -80px;
+	margin-top: 150px;
+}
+
