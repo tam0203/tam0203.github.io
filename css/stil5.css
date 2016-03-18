@@ -241,6 +241,58 @@ float: left;
 	font-size:120%;
 }
 
+<<<<<<< HEAD
+=======
+#footer-wrapper
+{
+background-color:#CF897F;
+font-family:myFirstFont;
+color:#47403F;
+padding: 1px 0 1px 0;
+}
+.pitanje
+{
+
+font-size: 260%;
+}
+
+.poruka1
+{
+margin-left:440px;
+margin-top:-80px;
+}
+
+
+#footer
+{
+margin-left:150px;
+
+}
+
+#footer section
+{
+float: left;
+display:inline-block;
+
+}
+
+#footer tr
+{
+float: left;
+
+}
+#footer tr td input 
+{
+    width: 279px;
+    height: 50px;
+    display: inline-block;
+    margin-bottom: 10px;
+    background-color: #E5BEA2;
+	font-family:myFirstFont;
+	font-size:120%;
+}
+
+>>>>>>> origin/master
 #footer tr td textarea
 {
     width: 560px;
@@ -255,4 +307,8 @@ float: left;
 #o_nama section ul li
 {
 font-size:130%;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> origin/master
